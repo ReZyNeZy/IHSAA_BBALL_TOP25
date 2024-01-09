@@ -21,7 +21,7 @@ When running this program, it is important to respect the origional authors of t
 Each coding cell should be run one after another. Upon running the innital 2 cells. It is not required to run these cells again until the webpage is updated with new rankings. Each cell should then continue to be run one after another. Upon running the final cell, the program will return the list of rankings. **NOTE: The Overall table includes an additional row that outputs the number of placements a team as either moved up or down. + for positive movement, - for negative movement, and NaN for no movement occuring.**
 
 ### List Guide
-+ "Pound": Ranking (1-25)
++ #: Ranking (1-25)
 + School: School Name
 + Ovr: The record of the school
 + Rating: How skilled Maxpreps believes the team to be
